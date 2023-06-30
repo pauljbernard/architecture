@@ -1,0 +1,5 @@
+query ActiveProducts {
+ product_line{
+  description
+ }
+}
